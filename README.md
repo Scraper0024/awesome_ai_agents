@@ -1090,180 +1090,180 @@ The key tools for building AI agents include benchmarks (to evalutae performance
 - [Yival](https://github.com/YiVal/YiVal) - Your Automatic Prompt Engineering Assistant for GenAI Applications
 
 ### Security
-- [Agent-Repoguardian](https://github.com/flexigpt/agent-repoguardian): An AI agent that does security scans and vulnerability analysis of code
-- [Agentic_Security](https://github.com/msoedov/agentic_security): Agentic LLM Vulnerability Scanner / AI red teaming kit
-- [Agentictrust](https://github.com/lab101-ai/agentictrust): Observability, DevTool and Security Platfrom for AI Agents
-- [Agentos](https://github.com/The-Swarm-Corporation/AgentOS): AgentOS implements a comprehensive security architecture leveraging containerization, orchestration, and multi-layer isolation to ensure …
-- [Agriaid](https://github.com/shamspias/AgriAid): AgriAid is an AI-powered tool for farmers & agricultural agents in Bangladesh, offering plant disease forecasting & identification. Using…
-- [Ai-Agent](https://github.com/ZielBox/ai-agent): Performs various AI enabled actions and specialized in security management.
-- [Ai-Agent-Security](https://github.com/SecurityLab-UCD/ai-agent-security): This repository contains source code for the demos and attacks we present in our paper Security of AI Agents.
-- [Ai-Agent-Solving-Security-Challenges](https://github.com/theowni/AI-Agent-Solving-Security-Challenges): No description available
-- [Ai-Agent-Wallet](https://github.com/0xcrypto2024/ai-agent-wallet): This framework provides a secure, headless wallet solution designed for integration with frontend applications. It prioritizes security b…
-- [Ai-Powered-Security-Agent](https://github.com/AIBotTeachesAI/AI-Powered-Security-Agent): No description available
-- [Ai-Security-Demos](https://github.com/shaialon/ai-security-demos): 🤯 AI Security EXPOSED! Live Demos Showing Hidden Risks of 🤖 Agentic AI Flows: 💉Prompt Injection, ☣️ Data Poisoning. Watch the recorded se…
-- [Ai_Buddy_Guard](https://github.com/gpsandhu23/ai_buddy_guard): Prototype AI agent to test how well AI can help us find and fix security problems
-- [Ai_Security_Agent](https://github.com/SoumilB7/AI_Security_Agent): Freelance Project with Armur AI
-- [Airmageddon](https://github.com/RamonBeast/airmageddon): AIrmageddon is a home security AI Agent
-- [Airportagentsimulation-Security](https://github.com/Jogrohe/AirportAgentSimulation-Security): No description available
-- [Awesome_Gpt_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting): ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai
-- [Cartlis](https://github.com/Theneo-Inc/Cartlis): The AI-Powered API Governance Agent enforces rules in real-time, seamlessly integrating with infrastructures and auto-patching violations…
-- [Cognitive-Security-Ai-Powered-Threat-Agent-Evaluation-For-Impact-On-Assets.](https://github.com/Gauravsbin/Cognitive-Security-AI-Powered-Threat-Agent-Evaluation-for-Impact-on-Assets.): No description available
-- [Council-Of-Ai](https://github.com/seanpixel/council-of-ai): Security measure for agentic LLMs using a council of AIs moderted by a veto system. The council judges an agent's actions outputs based o…
-- [Cyber-Security-Llm-Agents](https://github.com/NVISOsecurity/cyber-security-llm-agents): A collection of agents that use Large Language Models (LLMs) to perform tasks common on our day to day jobs in cyber security.
-- [Db-Gpt](https://github.com/eosphoros-ai/DB-GPT): AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
-- [Eng-Security-Review-Agent](https://github.com/lume-cory/eng-security-review-agent): AI agentic app that helps security teams respond to security questions and security reviews from engineering
-- [Fast-Llm-Security-Guardrails](https://github.com/ZenGuard-AI/fast-llm-security-guardrails): The fastest && easiest LLM security guardrails for AI Agents and applications.
-- [Fetchai](https://github.com/Harshpreetkaur98/FetchAI): uAgents is a Python library by Fetch.ai for creating autonomous AI agents. It supports easy agent management, blockchain connectivity, an…
-- [Hauth](https://github.com/vaniiiii/hAUTH): hAUTH is a security middleware solution that provides human oversight for AI agents.
-- [Invariant](https://github.com/invariantlabs-ai/invariant): Helps you build better AI agents through debuggable unit testing
-- [Kevlar-Anti-Leak-System-Prompts](https://github.com/CyberAlbSecOP/KEVLAR-Anti-Leak-System-Prompts): Bullet-proof your custom GPT system prompt security with KEVLAR, the ultimate prompt protector against rules extraction, prompt injection…
-- [Linux-Security-Agent](https://github.com/microaisecurity/linux-security-agent): Micro AI security agent
-- [Llm_Agents_Security](https://github.com/johnny22245/llm_agents_security): This LLM agents deals with establishing AI security and safety.
-- [Minotaur_Impossible_Gpt_Security_Challenge](https://github.com/CyberAlbSecOP/MINOTAUR_Impossible_GPT_Security_Challenge): MINOTAUR: The STRONGEST Secure Prompt EVER! Prompt Security Challenge, Impossible GPT Security, Prompts Cybersecurity, Prompting Vulnerab…
-- [Moa-Groq-Langchain-Securityspecialist](https://github.com/TheJ-Erk400/moa-groq-langchain-securityspecialist): Mixture-of-Agents using Groq This Streamlit
-- [Multi-Agent-Secops-Llm](https://github.com/tegridydev/multi-agent-secops-llm): This project is a multi-agent security framework that utilizes multiple LLM models to analyze and generate comprehensive security briefs.
-- [Multi-Ai-Agents](https://github.com/erndck/Multi-AI-Agents): The Multi-AI Agent is a groundbreaking integration of artificial intelligence and blockchain technology, designed to provide unparalleled…
-- [Netsecgame](https://github.com/stratosphereips/NetSecGame): An environment simulation for networks security tasks for development and testing AI based agents. Part of AI Dojo project
-- [Owasp-Agentic-Ai](https://github.com/precize/OWASP-Agentic-AI): OWASP Top 10 for Agentic AI (AI Agent Security) - Pre-release version
-- [Rgs](https://github.com/MangelZabalaDevelop/RGS): Report Generative Security Tool developed for the Generative AI Agents Developer Contest organized by NVIDIA and LangChain.
-- [Secad](https://github.com/gideonaina/secad): SECAD is an agentic, AI-powered security workflow augmentation application.
-- [Security-Ai-Agent-Brama](https://github.com/oborys/security-ai-agent-brama): No description available
-- [Sim-Security-Data](https://github.com/Sim-Security/Sim-Security-Data): Where I collect and process data for AI agents
-- [Web_Scrape_Agent_Ai](https://github.com/rxslice/Web_Scrape_Agent_AI): Enterprise-Quality Autonomous Agent complete with relevant tools, master prompt, additional optional AI services, API compatible, basic s…
+- [Agent-Repoguardian](https://github.com/flexigpt/agent-repoguardian) - An AI agent that does security scans and vulnerability analysis of code
+- [Agentic_Security](https://github.com/msoedov/agentic_security) - Agentic LLM Vulnerability Scanner / AI red teaming kit
+- [Agentictrust](https://github.com/lab101-ai/agentictrust) - Observability, DevTool and Security Platfrom for AI Agents
+- [Agentos](https://github.com/The-Swarm-Corporation/AgentOS) - AgentOS implements a comprehensive security architecture leveraging containerization, orchestration, and multi-layer isolation to ensure …
+- [Agriaid](https://github.com/shamspias/AgriAid) - AgriAid is an AI-powered tool for farmers & agricultural agents in Bangladesh, offering plant disease forecasting & identification. Using…
+- [Ai-Agent](https://github.com/ZielBox/ai-agent) - Performs various AI enabled actions and specialized in security management.
+- [Ai-Agent-Security](https://github.com/SecurityLab-UCD/ai-agent-security) - This repository contains source code for the demos and attacks we present in our paper Security of AI Agents.
+- [Ai-Agent-Solving-Security-Challenges](https://github.com/theowni/AI-Agent-Solving-Security-Challenges) - No description available
+- [Ai-Agent-Wallet](https://github.com/0xcrypto2024/ai-agent-wallet) - This framework provides a secure, headless wallet solution designed for integration with frontend applications. It prioritizes security b…
+- [Ai-Powered-Security-Agent](https://github.com/AIBotTeachesAI/AI-Powered-Security-Agent) - No description available
+- [Ai-Security-Demos](https://github.com/shaialon/ai-security-demos) - 🤯 AI Security EXPOSED! Live Demos Showing Hidden Risks of 🤖 Agentic AI Flows: 💉Prompt Injection, ☣️ Data Poisoning. Watch the recorded se…
+- [Ai_Buddy_Guard](https://github.com/gpsandhu23/ai_buddy_guard) - Prototype AI agent to test how well AI can help us find and fix security problems
+- [Ai_Security_Agent](https://github.com/SoumilB7/AI_Security_Agent) - Freelance Project with Armur AI
+- [Airmageddon](https://github.com/RamonBeast/airmageddon) - AIrmageddon is a home security AI Agent
+- [Airportagentsimulation-Security](https://github.com/Jogrohe/AirportAgentSimulation-Security) - No description available
+- [Awesome_Gpt_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai
+- [Cartlis](https://github.com/Theneo-Inc/Cartlis) - The AI-Powered API Governance Agent enforces rules in real-time, seamlessly integrating with infrastructures and auto-patching violations…
+- [Cognitive-Security-Ai-Powered-Threat-Agent-Evaluation-For-Impact-On-Assets.](https://github.com/Gauravsbin/Cognitive-Security-AI-Powered-Threat-Agent-Evaluation-for-Impact-on-Assets.) - No description available
+- [Council-Of-Ai](https://github.com/seanpixel/council-of-ai) - Security measure for agentic LLMs using a council of AIs moderted by a veto system. The council judges an agent's actions outputs based o…
+- [Cyber-Security-Llm-Agents](https://github.com/NVISOsecurity/cyber-security-llm-agents) - A collection of agents that use Large Language Models (LLMs) to perform tasks common on our day to day jobs in cyber security.
+- [Db-Gpt](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
+- [Eng-Security-Review-Agent](https://github.com/lume-cory/eng-security-review-agent) - AI agentic app that helps security teams respond to security questions and security reviews from engineering
+- [Fast-Llm-Security-Guardrails](https://github.com/ZenGuard-AI/fast-llm-security-guardrails) - The fastest && easiest LLM security guardrails for AI Agents and applications.
+- [Fetchai](https://github.com/Harshpreetkaur98/FetchAI) - uAgents is a Python library by Fetch.ai for creating autonomous AI agents. It supports easy agent management, blockchain connectivity, an…
+- [Hauth](https://github.com/vaniiiii/hAUTH) - hAUTH is a security middleware solution that provides human oversight for AI agents.
+- [Invariant](https://github.com/invariantlabs-ai/invariant) - Helps you build better AI agents through debuggable unit testing
+- [Kevlar-Anti-Leak-System-Prompts](https://github.com/CyberAlbSecOP/KEVLAR-Anti-Leak-System-Prompts) - Bullet-proof your custom GPT system prompt security with KEVLAR, the ultimate prompt protector against rules extraction, prompt injection…
+- [Linux-Security-Agent](https://github.com/microaisecurity/linux-security-agent) - Micro AI security agent
+- [Llm_Agents_Security](https://github.com/johnny22245/llm_agents_security) - This LLM agents deals with establishing AI security and safety.
+- [Minotaur_Impossible_Gpt_Security_Challenge](https://github.com/CyberAlbSecOP/MINOTAUR_Impossible_GPT_Security_Challenge) - MINOTAUR: The STRONGEST Secure Prompt EVER! Prompt Security Challenge, Impossible GPT Security, Prompts Cybersecurity, Prompting Vulnerab…
+- [Moa-Groq-Langchain-Securityspecialist](https://github.com/TheJ-Erk400/moa-groq-langchain-securityspecialist) - Mixture-of-Agents using Groq This Streamlit
+- [Multi-Agent-Secops-Llm](https://github.com/tegridydev/multi-agent-secops-llm) - This project is a multi-agent security framework that utilizes multiple LLM models to analyze and generate comprehensive security briefs.
+- [Multi-Ai-Agents](https://github.com/erndck/Multi-AI-Agents) - The Multi-AI Agent is a groundbreaking integration of artificial intelligence and blockchain technology, designed to provide unparalleled…
+- [Netsecgame](https://github.com/stratosphereips/NetSecGame) - An environment simulation for networks security tasks for development and testing AI based agents. Part of AI Dojo project
+- [Owasp-Agentic-Ai](https://github.com/precize/OWASP-Agentic-AI) - OWASP Top 10 for Agentic AI (AI Agent Security) - Pre-release version
+- [Rgs](https://github.com/MangelZabalaDevelop/RGS) - Report Generative Security Tool developed for the Generative AI Agents Developer Contest organized by NVIDIA and LangChain.
+- [Secad](https://github.com/gideonaina/secad) - SECAD is an agentic, AI-powered security workflow augmentation application.
+- [Security-Ai-Agent-Brama](https://github.com/oborys/security-ai-agent-brama) - No description available
+- [Sim-Security-Data](https://github.com/Sim-Security/Sim-Security-Data) - Where I collect and process data for AI agents
+- [Web_Scrape_Agent_Ai](https://github.com/rxslice/Web_Scrape_Agent_AI) - Enterprise-Quality Autonomous Agent complete with relevant tools, master prompt, additional optional AI services, API compatible, basic s…
 
 ### Testing
-- [Ab-Agent](https://github.com/bassimeledath/ab-agent): AI Agents automating A/B test design and inference
-- [Adtestpro](https://github.com/AnanyaP-WDW/AdTestPro): Open Source Tool To Preemptively Test Ad Creatives Against Synthetic Target Audiences
-- [Agent-Ai-Test](https://github.com/Praagnya/agent-ai-test): Testing finance agent
-- [Agent-Evaluation](https://github.com/awslabs/agent-evaluation): A generative AI-powered framework for testing virtual agents.
-- [Agent-Smith-E2E-Test](https://github.com/dangoddard-trilogy/agent-smith-e2e-test): AI-powered E2E testing tool
-- [Agent-Solarpanels-Tutorial](https://github.com/Pairrot-Lore/agent-solarpanels-tutorial): This repository contains an AI agent built with LangGraph to calculate energy savings for solar panels. The project is designed for use w…
-- [Agentacc-Batch-Test](https://github.com/Hehua-Fan/AgentAcc-Batch-Test): A application to test the AI agent accuracy, powered by Streamlit
-- [Agentai_Testing_Repo](https://github.com/SUGUMAR-S/agentAI_testing_repo): it used for testing purpose
-- [Agentic-Platform](https://github.com/bonk1t/agentic-platform): AI Agent Automation Platform: Rapidly prototype, test, and deploy Multi-Agent Systems from your browser.
-- [Agentic.Md](https://github.com/ai-primitives/agentic.md): Build, Test, Deploy, & Iterate on AI Agents using Markdown & MDX
-- [Agents](https://github.com/culurciello/agents): A collection of AI agents to test AI capabilities, and to be used as tutorials and demonstrations
-- [Ai-Agency](https://github.com/Garcluca/AI-Agency): Testing Bed for AI Agents and Orchestration
-- [Ai-Agent-Design-For-Iq-Tests](https://github.com/tex216/AI-Agent-Design-for-IQ-Tests): Designed an AI agent to pass Raven’s Progressive Matrices tests, details see the Final-Project-Report.
-- [Ai-Agent-Lab](https://github.com/Zeeshan138063/ai-agent-lab): AI Agent Lab: An open-source repository to build, test, and deploy AI agents using Python, with examples and modular design.
-- [Ai-Agent-Playground](https://github.com/Wei1024/AI-Agent-Playground): test repo to develop an AI agent framework for office workers
-- [Ai-Agent-Teams](https://github.com/AdamHHart/AI-Agent-Teams): A playground for testing deiffent AI Agent Teams with AutoGen, CrewAI, and Langchain
-- [Ai-Agent-Test](https://github.com/bjoernzosel/ai-agent-test): An AI-generated portfolio website for a freelance web designer
-- [Ai-Agent-Test](https://github.com/sfelkner/ai-agent-test): A test repository for AI agent interactions
-- [Ai-Agents-Tool-Dev](https://github.com/aydinfer/ai-agents-tool-dev): Multi-agent AI development system for automated tool creation and testing
-- [Ai-Api-Testing](https://github.com/CarlosVecina/ai-api-testing): 🐦AI test generator for APIs and agentic workflows
-- [Ai-Code-Gen](https://github.com/Farelart/Ai-code-gen): An ai agent to generate python unit test
-- [Ai-Dev-Agent-Test](https://github.com/eventstubsol/ai-dev-agent-test): A test repository created by AI Dev Agent
-- [Ai-Gpt-Agent](https://github.com/pedrogritter/ai-gpt-agent): A simple agent to test OpenAI's GPT API
-- [Ai-Pacman-Classification](https://github.com/AmzAust/AI-Pacman-Classification): In this project, you will design three classifiers: a perceptron classifier, a large-margin (MIRA) classifier, and a slightly modified pe…
-- [Ai-Project-Plannerenvironment](https://github.com/MircoT/AI-Project-PlannerEnvironment): An environment to test a planner agent, created for a college course.
-- [Ai-Project-Vacuumenvironment](https://github.com/MircoT/AI-Project-VacuumEnvironment): An environment to test a vacuum agent, created for a college course.
-- [Ai-Reinforcement-Learning](https://github.com/abhinavcreed13/ai-reinforcement-learning): This project will implement value iteration and Q-learning. It will first test agents on Gridworld (from class), then apply them to a sim…
-- [Ai-Smartclassroom](https://github.com/adv-11/AI-SmartClassroom): Undergrad Final Year Project. A step up from Google Classroom by integrating Agentic AI, RAG, Reinforcement Learning and advance concepts…
-- [Ai-Testing-Agent](https://github.com/furudo-erika/ai-testing-agent): AI Testing Agent: Open Source AI Agent for Software Testing
-- [Ai-Wallet-Agent-Test](https://github.com/vish2396/AI-wallet-agent-test): Sample Ai wallet agent using coinbase sdk
-- [Ai_Agent](https://github.com/IbrahimaBailoDIALLO/AI_Agent): I will put all ai agent on this repos when i finish to develop and test it
-- [Ai_Agent_Computer_Vision](https://github.com/SamTaubman/AI_Agent_Computer_Vision): AI Agent designed to solve Raven's Progressive Matrices IQ Test
-- [Ai_Agent_Crewai](https://github.com/Ronin-117/Ai_Agent_CrewAI): testing CrewAI
-- [Ai_Apps](https://github.com/huneyk/AI_Apps): AI Agent Test with CrewAI framework
-- [Ai_Brainstorming_Team_Agents](https://github.com/jkalonji/AI_Brainstorming_Team_Agents): Test your ideas by consulting a series of experts
-- [Ai_Buddy_Guard](https://github.com/gpsandhu23/ai_buddy_guard): Prototype AI agent to test how well AI can help us find and fix security problems
-- [Ai_Devs3](https://github.com/bgrzywinski/ai_devs3): agent building, prompts testing, task solutions
-- [Ai_Tools](https://github.com/chineseflava/AI_tools): Testing AI tools and building agents.
-- [Aiagents_Test](https://github.com/prad-human-007/AIAgents_test): Test Playground for AI agents
-- [Aiconversationflow](https://github.com/TonySimonovsky/AIConversationFlow): AI Conversation Flow provides a framework to create anti-agents to build complex non-linear LLM conversation flows, that are composable, …
-- [Aigent](https://github.com/automators-com/aigent): Generate tests for you application using an autonomous AI agent
-- [Ailoveragent](https://github.com/caizhuoyue77/AILoverAgent): Some testing for AILover's agent implementation.
-- [Aimultiagents](https://github.com/hesamjafarian/AiMultiAgents): This is a repository for testing ai algorithms using game simulation. It is used for python 2.7
-- [Aiq-Poa](https://github.com/xvado00/AIQ-POA): Policy Optimisation Agents module fort the AIQ Test
-- [Amazon-Bedrock-Agent-Test-Ui](https://github.com/acwwat/amazon-bedrock-agent-test-ui): A generic Streamlit UI for testing generative AI agents built using Agents for Amazon Bedrock
-- [Anythingllm_Agentsample](https://github.com/stoneskin/AnythingLLM_AgentSample): test the AnythignLLM custom agent
-- [Api-Ai-Agent-Test](https://github.com/texascloud/api-ai-agent-test): This is where all my commits for two pickle files will live to serve as an example of submodule usage for api-ai-versioning tool.
-- [Attendone](https://github.com/mariamkhaled99/attendone): ai generted agent test 1
-- [Auto-Dev](https://github.com/unit-mesh/auto-dev): 🧙‍AutoDev: The AI-powered coding wizard（AI 驱动编程助手）with multilingual support 🌐, auto code generation 🏗️, and a helpful bug-slaying assista…
-- [Autogen-And-Crewai-Agenttests](https://github.com/TMJ97/AutoGen-and-CrewAI-AgentTests): No description available
-- [Autonoma](https://github.com/Sebasbo/Autonoma): Autonoma: Agentic AI-powered framework for autonomous code modification, analysis, and testing, streamlining software development workflo…
-- [Autospec](https://github.com/zachblume/autospec): Autospec is an open-source AI agent that takes a web app URL and autonomously QAs it, and saves its passing specs as E2E test code
-- [B4-Agent-Test-06](https://github.com/b4ke/b4-agent-test-06): b4-agent-test-06: cloudflare ai tool test
-- [Backtesteragent](https://github.com/The-Swarm-Corporation/BackTesterAgent): An enterprise-grade AI-powered backtesting framework built on the Swarms framework for automated trading strategy validation and optimiza…
-- [Baseline-Agent](https://github.com/Bloodrock-AI/baseline-agent): This is a simple AI Agent used to test the Bloodrock CORE Benchmark.
-- [Botsharp-Ui](https://github.com/SciSharp/BotSharp-UI): Build, test and manage your AI Agents in the central place.
-- [Card_Games_For_Mcts-Ann_Ai](https://github.com/symbol-zy/Card_Games_for_MCTS-ANN_AI): A simpified version of card game like bridge, made for testing MCTS+ANN Agents.
-- [Chat_Agent](https://github.com/YangShyrMing/Chat_Agent): ... knowledge and intelligence of a human. Now this should pass the turning test of AI i.e. we all know an AI is the best if it can pass …
-- [Claude-Html-Test](https://github.com/SivaramAdi/claude-html-test): A repository showcasing information about AI Agents
-- [Connect4_Ai](https://github.com/cumason123/connect4_ai): Testing various agents against each other
-- [Crew-News](https://github.com/rokbenko/crew-news): CrewNews is an AI news generator that delivers an unbiased version of the news for a given topic, using Streamlit for the GUI, Llama 3.1 …
-- [Crewai](https://github.com/SkatAI/crewai): Sandbox testing crewai AI Agents
-- [Crewai-101](https://github.com/Reyzenello/CrewAI-101): Testing around framework using multi-agent
-- [Crewai-Test](https://github.com/Buddog/CrewAI-Test): Multi Agent AI Test
-- [Crewaiknowledgetest](https://github.com/NanGePlus/CrewAIKnowledgeTest): CrewAI新版本支持使用Knowledge属性将txt、PDF、CSV、Excel、JSON等多种数据格式内容及多文件混合作为知识增强知识库提供给Crew中的Agent使用
-- [De-Bench](https://github.com/ArdentAI1/DE-Bench): DE Bench: Can Agents Solve Real-World Data Engineering Problems? Built to test Ardent's AI Data Engineer
-- [Debugai](https://github.com/Open-IDE/DebugAI): An A.I. Agent that assists in Testing & Debugging!
-- [Dev-Swarm](https://github.com/kyegomez/dev-swarm): A swarm of LLM agents that will help you test, document, and productionize your code!
-- [Dravid](https://github.com/vysakh0/dravid): AI powered cli coding agent that monitors your dev/test server and fixes errors and adds features
-- [Explorer](https://github.com/invariantlabs-ai/explorer): A better way of testing, inspecting, and analyzing AI Agent traces.
-- [Frontend-Agent](https://github.com/qodex-ai/frontend-agent): Open-Source AI-Powered QA Tool for Automated UI Testing and Navigation.
-- [Generative_Ai](https://github.com/gabrielpreda/generative_ai): Kaggle Notebooks, Utility Scripts using Generative AI tools to check new models, fine tune models, test with various prompts, create Retr…
-- [Goingbig](https://github.com/tshurden16/goingbig): Test AI Agent
-- [Hacksynth](https://github.com/aielte-research/HackSynth): LLM Agent and Evaluation Framework for Autonomous Penetration Testing
-- [Health-Ai](https://github.com/sj-data/health-ai): Testing grounds for health ai agent
-- [Incredible.Dev](https://github.com/IncredibleDevHQ/Incredible.dev): Incredible.dev is an AI Coding Co-worker which can code, fix, document, deploy, test your APIs. One agent to rule everything API.
-- [Instrukt](https://github.com/blob42/Instrukt): Integrated AI environment in the terminal. Build, test and instruct agents.
-- [Intelligent-Agent](https://github.com/balaaagi/Intelligent-Agent): This repository contains an AI agent that can pass a human intelligence test.
-- [Intelligent-Agent](https://github.com/roterdam/Intelligent-Agent): This repository contains an AI agent that can pass a human intelligence test.
-- [Invariant](https://github.com/invariantlabs-ai/invariant): Helps you build better AI agents through debuggable unit testing
-- [Java-Ai-Sbus-Test](https://github.com/abhikt48/java-ai-sbus-test): Codeless Agent test with Azure ServiceBus
-- [Jest-Ai](https://github.com/dreamcatcher-tech/jest-ai): AI Agent testing suites
-- [Langchaintest](https://github.com/JohnBreth/LangChainTest): AI Agents in LangGraph Course
-- [Mario-Playability-Test](https://github.com/zhihanyang2022/mario-playability-test): Run a simple agent through user-defined super-mario chunks and determine the playability proportion.
-- [Mazerunner](https://github.com/CollinsEM/MazeRunner): Framework for testing AI agents
-- [Mb-Nothing](https://github.com/0xAsten/mb-nothing): Testing with Cartridge Controller and AI Agent.
-- [Mcts-Agent-Cythonized](https://github.com/masouduut94/MCTS-agent-cythonized): MONTE Carlo Tree Search (MCTS) is a method for finding optimal decisions in a given domain by taking random samples in the decision space…
-- [Mcts-Agent-Python](https://github.com/masouduut94/MCTS-agent-python): Monte Carlo Tree Search (MCTS) is a method for finding optimal decisions in a given domain by taking random samples in the decision space…
-- [Megaminer-Tinyarena](https://github.com/drusepth/Megaminer-Tinyarena): A tiny arena for testing Megaminer AI agents
-- [Metasploit-Gym](https://github.com/phreakAI/metasploit-gym): An environment for testing AI agents against networks using Metasploit.
-- [Multiagentworkflow](https://github.com/zachnoel/multiAgentWorkflow): A sample Multi AI agent workflow for testing out AI agent frameworks
-- [Multiagentworkflow](https://github.com/drewbloom/multiAgentWorkflow): Testing multiagent AI flows for CRUD, search, and document construction from databases
-- [N8Ntest](https://github.com/habib-049/n8nTest): This repo is for testing n8n AI agent
-- [Netsecgame](https://github.com/stratosphereips/NetSecGame): An environment simulation for networks security tasks for development and testing AI based agents. Part of AI Dojo project
-- [Networkattacksimulator](https://github.com/Jjschwartz/NetworkAttackSimulator): An environment for testing AI pentesting agents against a simulated network.
-- [Nexus](https://github.com/cxbxmxcx/Nexus): AI Agent Nexus is an open-source platform for developing, testing, and hosting AI Agents, built with Streamlit and Gradio. It offers a us…
-- [O1_Agent_Test](https://github.com/alexmoses/o1_Agent_Test): Building a multi-agent AI program
-- [Orchestrai](https://github.com/samshapley/OrchestrAI): A framework for building and testing custom autonomous agents.
-- [Othello-Fx](https://github.com/EudyContreras/Othello-FX): Othello game framework made with JavaFX which can be use for testing Othello AI Agents.
-- [Pentesting-Ai](https://github.com/Lstalet04/Pentesting-AI): Multi agent penetration testing AI
-- [Plark_Ai_Public](https://github.com/montvieux/plark_ai_public): ... provide a basis for more extensive, long-term, and cutting edge research. The test bed can be used as a basis to research the limits of
-- [Rag-System](https://github.com/thetom42/rag-system): Test Project with Replit AI Agent
-- [Raven-Test-Ai](https://github.com/dhurng/Raven-Test-AI): An AI agent that can solve Raven Tests, visual iq tests
-- [Reverse_Turing_Test](https://github.com/nicomanzonelli/reverse_turing_test): Can you outsmart the LLM-based AI agents?
-- [Ricai_Unittestgen_Tool](https://github.com/AutoDevTestAgent/ricai_unittestgen_tool): (lablab.ai Autonomous Agents 2023 hackathon) RicAI unit test generation tool
-- [Rlerewolf](https://github.com/GeorgeVelikov/RLereWolf): A framework for playing Werewolf & developing and testing AI agents for Werewolf.
-- [Rpm-Ai-Agent](https://github.com/teldridge11/RPM-AI-Agent): AI Agent for solving Raven's Progressive Matrices as a test of general intelligence
-- [Rpm-Ai-Agent](https://github.com/horkays/RPM-AI-Agent): An AI agent designed to solve the Raven's Progressive Matrices human intelligence tests, written in Python
-- [Sam](https://github.com/vishalmysore/sam): Autonomous Agent or Large Action Model Implementation in Java. Selenium and AI integration, AI based validations for tests. UI Validation…
-- [Snakeai-Test](https://github.com/maxolib/SnakeAI-Test): AI learning game using ML-agents for Unity
-- [Stock_Forecast_Ai_Agent](https://github.com/john2408/stock_forecast_ai_agent): This is a small app to test the AI Agents functionallity for forecasting purposes. Mainly focusing on function calling.
-- [Swarmgo](https://github.com/prathyushnallamothu/swarmgo): SwarmGo is a Go package that allows you to create AI agents capable of interacting, coordinating, and executing tasks. Inspired by OpenAI…
-- [Tago](https://github.com/TwilledWave/Tago): Langchain agent test platform / AI Assistant Tago
-- [Test-Agent](https://github.com/GDT502/Test-Agent): Developing AI tools for testing
-- [Test-Ai-Agent-Ideas](https://github.com/AbhiPat123/test-ai-agent-Ideas): A small palyground to test free models - maybe will look into using paid ones later
-- [Testai](https://github.com/dhiraj-inti/TestAI): An agentic AI application to automate the testsuite creation, execution and reporting
-- [Testai-Agent](https://github.com/khanzzirfan/TestAI-Agent): write a test ai agent to write automated tests on PR requests
-- [Testdriverai](https://github.com/testdriverai/testdriverai): Next generation autonomous AI agent for end-to-end testing of web & desktop
-- [Testzeus-Hercules](https://github.com/test-zeus-ai/testzeus-hercules): Welcome to Hercules, the world's first open-source testing agent that's here to lift your testing burdens with the strength of a mytholog…
-- [Theagentsgameai](https://github.com/ZelunGlenn/TheAgentsGameAI): AI testing system for The Agents Game logic, using decision tree.
-- [Tic-Tac-Toe](https://github.com/OmerCinal/Tic-Tac-Toe): Search and AI algorithms testing game. Big Tic Tac Toe
-- [Travel_Agent](https://github.com/gowthaml15/travel_agent): This repo is for testing crew_ai and trying a travel agent usecase
-- [Vacuum-Agents](https://github.com/hholb/vacuum-agents): A Simulated Robot Vaccuum for testing different AI algorithms.
-- [Vercel_Ai_Test](https://github.com/pixelknit/vercel_ai_test): Test for webgl ai agent
-- [Vital-Chat-Ui-Streamlit](https://github.com/vital-ai/vital-chat-ui-streamlit): Part of the Vital Agent Ecosystem, Simple UI for Testing Agents
-- [Voice_Agent](https://github.com/drhammed/voice_agent): Test app for the AI Voice Agent Project
-- [Voxprobe](https://github.com/voxos-ai/voxprobe): A python package for automated testing and evaluation for voice ai agents
-- [Walking-Ai](https://github.com/AleCamara/walking-ai): Test to make an AI walk using Unity ML-Agents plugin.
-- [Webtestagenticai](https://github.com/tvalentius/WebTestAgenticAI): Web test Agent AI
-- [Whiteboxing-Unitymlagents](https://github.com/ActiveNick/Whiteboxing-UnityMLAgents): Experimental testbed where I test various Machine Learning & AI concepts using Unity ML Agents.
-- [Windowsagentarena](https://github.com/microsoft/WindowsAgentArena): Windows Agent Arena (WAA) 🪟 is a scalable OS platform for testing and benchmarking of multi-modal AI agents.
-- [Worldai](https://github.com/nschaetti/WorldAI): World AI is a simulator designed for research purposes. It can be used to simulate worlds, logical and ethical problems for AI agents 
+- [Ab-Agent](https://github.com/bassimeledath/ab-agent) - AI Agents automating A/B test design and inference
+- [Adtestpro](https://github.com/AnanyaP-WDW/AdTestPro) - Open Source Tool To Preemptively Test Ad Creatives Against Synthetic Target Audiences
+- [Agent-Ai-Test](https://github.com/Praagnya/agent-ai-test) - Testing finance agent
+- [Agent-Evaluation](https://github.com/awslabs/agent-evaluation) - A generative AI-powered framework for testing virtual agents.
+- [Agent-Smith-E2E-Test](https://github.com/dangoddard-trilogy/agent-smith-e2e-test) - AI-powered E2E testing tool
+- [Agent-Solarpanels-Tutorial](https://github.com/Pairrot-Lore/agent-solarpanels-tutorial) - This repository contains an AI agent built with LangGraph to calculate energy savings for solar panels. The project is designed for use w…
+- [Agentacc-Batch-Test](https://github.com/Hehua-Fan/AgentAcc-Batch-Test) - A application to test the AI agent accuracy, powered by Streamlit
+- [Agentai_Testing_Repo](https://github.com/SUGUMAR-S/agentAI_testing_repo) - it used for testing purpose
+- [Agentic-Platform](https://github.com/bonk1t/agentic-platform) - AI Agent Automation Platform: Rapidly prototype, test, and deploy Multi-Agent Systems from your browser.
+- [Agentic.Md](https://github.com/ai-primitives/agentic.md) - Build, Test, Deploy, & Iterate on AI Agents using Markdown & MDX
+- [Agents](https://github.com/culurciello/agents) - A collection of AI agents to test AI capabilities, and to be used as tutorials and demonstrations
+- [Ai-Agency](https://github.com/Garcluca/AI-Agency) - Testing Bed for AI Agents and Orchestration
+- [Ai-Agent-Design-For-Iq-Tests](https://github.com/tex216/AI-Agent-Design-for-IQ-Tests) - Designed an AI agent to pass Raven’s Progressive Matrices tests, details see the Final-Project-Report.
+- [Ai-Agent-Lab](https://github.com/Zeeshan138063/ai-agent-lab) - AI Agent Lab: An open-source repository to build, test, and deploy AI agents using Python, with examples and modular design.
+- [Ai-Agent-Playground](https://github.com/Wei1024/AI-Agent-Playground) - test repo to develop an AI agent framework for office workers
+- [Ai-Agent-Teams](https://github.com/AdamHHart/AI-Agent-Teams) - A playground for testing deiffent AI Agent Teams with AutoGen, CrewAI, and Langchain
+- [Ai-Agent-Test](https://github.com/bjoernzosel/ai-agent-test) - An AI-generated portfolio website for a freelance web designer
+- [Ai-Agent-Test](https://github.com/sfelkner/ai-agent-test) - A test repository for AI agent interactions
+- [Ai-Agents-Tool-Dev](https://github.com/aydinfer/ai-agents-tool-dev) - Multi-agent AI development system for automated tool creation and testing
+- [Ai-Api-Testing](https://github.com/CarlosVecina/ai-api-testing) - 🐦AI test generator for APIs and agentic workflows
+- [Ai-Code-Gen](https://github.com/Farelart/Ai-code-gen) - An ai agent to generate python unit test
+- [Ai-Dev-Agent-Test](https://github.com/eventstubsol/ai-dev-agent-test) - A test repository created by AI Dev Agent
+- [Ai-Gpt-Agent](https://github.com/pedrogritter/ai-gpt-agent) - A simple agent to test OpenAI's GPT API
+- [Ai-Pacman-Classification](https://github.com/AmzAust/AI-Pacman-Classification) - In this project, you will design three classifiers: a perceptron classifier, a large-margin (MIRA) classifier, and a slightly modified pe…
+- [Ai-Project-Plannerenvironment](https://github.com/MircoT/AI-Project-PlannerEnvironment) - An environment to test a planner agent, created for a college course.
+- [Ai-Project-Vacuumenvironment](https://github.com/MircoT/AI-Project-VacuumEnvironment) - An environment to test a vacuum agent, created for a college course.
+- [Ai-Reinforcement-Learning](https://github.com/abhinavcreed13/ai-reinforcement-learning) - This project will implement value iteration and Q-learning. It will first test agents on Gridworld (from class), then apply them to a sim…
+- [Ai-Smartclassroom](https://github.com/adv-11/AI-SmartClassroom) - Undergrad Final Year Project. A step up from Google Classroom by integrating Agentic AI, RAG, Reinforcement Learning and advance concepts…
+- [Ai-Testing-Agent](https://github.com/furudo-erika/ai-testing-agent) - AI Testing Agent: Open Source AI Agent for Software Testing
+- [Ai-Wallet-Agent-Test](https://github.com/vish2396/AI-wallet-agent-test) - Sample Ai wallet agent using coinbase sdk
+- [Ai_Agent](https://github.com/IbrahimaBailoDIALLO/AI_Agent) - I will put all ai agent on this repos when i finish to develop and test it
+- [Ai_Agent_Computer_Vision](https://github.com/SamTaubman/AI_Agent_Computer_Vision) - AI Agent designed to solve Raven's Progressive Matrices IQ Test
+- [Ai_Agent_Crewai](https://github.com/Ronin-117/Ai_Agent_CrewAI) - testing CrewAI
+- [Ai_Apps](https://github.com/huneyk/AI_Apps) - AI Agent Test with CrewAI framework
+- [Ai_Brainstorming_Team_Agents](https://github.com/jkalonji/AI_Brainstorming_Team_Agents) - Test your ideas by consulting a series of experts
+- [Ai_Buddy_Guard](https://github.com/gpsandhu23/ai_buddy_guard) - Prototype AI agent to test how well AI can help us find and fix security problems
+- [Ai_Devs3](https://github.com/bgrzywinski/ai_devs3) - agent building, prompts testing, task solutions
+- [Ai_Tools](https://github.com/chineseflava/AI_tools) - Testing AI tools and building agents.
+- [Aiagents_Test](https://github.com/prad-human-007/AIAgents_test) - Test Playground for AI agents
+- [Aiconversationflow](https://github.com/TonySimonovsky/AIConversationFlow) - AI Conversation Flow provides a framework to create anti-agents to build complex non-linear LLM conversation flows, that are composable, …
+- [Aigent](https://github.com/automators-com/aigent) - Generate tests for you application using an autonomous AI agent
+- [Ailoveragent](https://github.com/caizhuoyue77/AILoverAgent) - Some testing for AILover's agent implementation.
+- [Aimultiagents](https://github.com/hesamjafarian/AiMultiAgents) - This is a repository for testing ai algorithms using game simulation. It is used for python 2.7
+- [Aiq-Poa](https://github.com/xvado00/AIQ-POA) - Policy Optimisation Agents module fort the AIQ Test
+- [Amazon-Bedrock-Agent-Test-Ui](https://github.com/acwwat/amazon-bedrock-agent-test-ui) - A generic Streamlit UI for testing generative AI agents built using Agents for Amazon Bedrock
+- [Anythingllm_Agentsample](https://github.com/stoneskin/AnythingLLM_AgentSample) - test the AnythignLLM custom agent
+- [Api-Ai-Agent-Test](https://github.com/texascloud/api-ai-agent-test) - This is where all my commits for two pickle files will live to serve as an example of submodule usage for api-ai-versioning tool.
+- [Attendone](https://github.com/mariamkhaled99/attendone) - ai generted agent test 1
+- [Auto-Dev](https://github.com/unit-mesh/auto-dev) - 🧙‍AutoDev: The AI-powered coding wizard（AI 驱动编程助手）with multilingual support 🌐, auto code generation 🏗️, and a helpful bug-slaying assista…
+- [Autogen-And-Crewai-Agenttests](https://github.com/TMJ97/AutoGen-and-CrewAI-AgentTests) - No description available
+- [Autonoma](https://github.com/Sebasbo/Autonoma) - Autonoma: Agentic AI-powered framework for autonomous code modification, analysis, and testing, streamlining software development workflo…
+- [Autospec](https://github.com/zachblume/autospec) - Autospec is an open-source AI agent that takes a web app URL and autonomously QAs it, and saves its passing specs as E2E test code
+- [B4-Agent-Test-06](https://github.com/b4ke/b4-agent-test-06) - b4-agent-test-06: cloudflare ai tool test
+- [Backtesteragent](https://github.com/The-Swarm-Corporation/BackTesterAgent) - An enterprise-grade AI-powered backtesting framework built on the Swarms framework for automated trading strategy validation and optimiza…
+- [Baseline-Agent](https://github.com/Bloodrock-AI/baseline-agent) - This is a simple AI Agent used to test the Bloodrock CORE Benchmark.
+- [Botsharp-Ui](https://github.com/SciSharp/BotSharp-UI) - Build, test and manage your AI Agents in the central place.
+- [Card_Games_For_Mcts-Ann_Ai](https://github.com/symbol-zy/Card_Games_for_MCTS-ANN_AI) - A simpified version of card game like bridge, made for testing MCTS+ANN Agents.
+- [Chat_Agent](https://github.com/YangShyrMing/Chat_Agent) - ... knowledge and intelligence of a human. Now this should pass the turning test of AI i.e. we all know an AI is the best if it can pass …
+- [Claude-Html-Test](https://github.com/SivaramAdi/claude-html-test) - A repository showcasing information about AI Agents
+- [Connect4_Ai](https://github.com/cumason123/connect4_ai) - Testing various agents against each other
+- [Crew-News](https://github.com/rokbenko/crew-news) - CrewNews is an AI news generator that delivers an unbiased version of the news for a given topic, using Streamlit for the GUI, Llama 3.1 …
+- [Crewai](https://github.com/SkatAI/crewai) - Sandbox testing crewai AI Agents
+- [Crewai-101](https://github.com/Reyzenello/CrewAI-101) - Testing around framework using multi-agent
+- [Crewai-Test](https://github.com/Buddog/CrewAI-Test) - Multi Agent AI Test
+- [Crewaiknowledgetest](https://github.com/NanGePlus/CrewAIKnowledgeTest) - CrewAI新版本支持使用Knowledge属性将txt、PDF、CSV、Excel、JSON等多种数据格式内容及多文件混合作为知识增强知识库提供给Crew中的Agent使用
+- [De-Bench](https://github.com/ArdentAI1/DE-Bench) - DE Bench: Can Agents Solve Real-World Data Engineering Problems? Built to test Ardent's AI Data Engineer
+- [Debugai](https://github.com/Open-IDE/DebugAI) - An A.I. Agent that assists in Testing & Debugging!
+- [Dev-Swarm](https://github.com/kyegomez/dev-swarm) - A swarm of LLM agents that will help you test, document, and productionize your code!
+- [Dravid](https://github.com/vysakh0/dravid) - AI powered cli coding agent that monitors your dev/test server and fixes errors and adds features
+- [Explorer](https://github.com/invariantlabs-ai/explorer) - A better way of testing, inspecting, and analyzing AI Agent traces.
+- [Frontend-Agent](https://github.com/qodex-ai/frontend-agent) - Open-Source AI-Powered QA Tool for Automated UI Testing and Navigation.
+- [Generative_Ai](https://github.com/gabrielpreda/generative_ai) - Kaggle Notebooks, Utility Scripts using Generative AI tools to check new models, fine tune models, test with various prompts, create Retr…
+- [Goingbig](https://github.com/tshurden16/goingbig) - Test AI Agent
+- [Hacksynth](https://github.com/aielte-research/HackSynth) - LLM Agent and Evaluation Framework for Autonomous Penetration Testing
+- [Health-Ai](https://github.com/sj-data/health-ai) - Testing grounds for health ai agent
+- [Incredible.Dev](https://github.com/IncredibleDevHQ/Incredible.dev) - Incredible.dev is an AI Coding Co-worker which can code, fix, document, deploy, test your APIs. One agent to rule everything API.
+- [Instrukt](https://github.com/blob42/Instrukt) - Integrated AI environment in the terminal. Build, test and instruct agents.
+- [Intelligent-Agent](https://github.com/balaaagi/Intelligent-Agent) - This repository contains an AI agent that can pass a human intelligence test.
+- [Intelligent-Agent](https://github.com/roterdam/Intelligent-Agent) - This repository contains an AI agent that can pass a human intelligence test.
+- [Invariant](https://github.com/invariantlabs-ai/invariant) - Helps you build better AI agents through debuggable unit testing
+- [Java-Ai-Sbus-Test](https://github.com/abhikt48/java-ai-sbus-test) - Codeless Agent test with Azure ServiceBus
+- [Jest-Ai](https://github.com/dreamcatcher-tech/jest-ai) - AI Agent testing suites
+- [Langchaintest](https://github.com/JohnBreth/LangChainTest) - AI Agents in LangGraph Course
+- [Mario-Playability-Test](https://github.com/zhihanyang2022/mario-playability-test) - Run a simple agent through user-defined super-mario chunks and determine the playability proportion.
+- [Mazerunner](https://github.com/CollinsEM/MazeRunner) - Framework for testing AI agents
+- [Mb-Nothing](https://github.com/0xAsten/mb-nothing) - Testing with Cartridge Controller and AI Agent.
+- [Mcts-Agent-Cythonized](https://github.com/masouduut94/MCTS-agent-cythonized) - MONTE Carlo Tree Search (MCTS) is a method for finding optimal decisions in a given domain by taking random samples in the decision space…
+- [Mcts-Agent-Python](https://github.com/masouduut94/MCTS-agent-python) - Monte Carlo Tree Search (MCTS) is a method for finding optimal decisions in a given domain by taking random samples in the decision space…
+- [Megaminer-Tinyarena](https://github.com/drusepth/Megaminer-Tinyarena) - A tiny arena for testing Megaminer AI agents
+- [Metasploit-Gym](https://github.com/phreakAI/metasploit-gym) - An environment for testing AI agents against networks using Metasploit.
+- [Multiagentworkflow](https://github.com/zachnoel/multiAgentWorkflow) - A sample Multi AI agent workflow for testing out AI agent frameworks
+- [Multiagentworkflow](https://github.com/drewbloom/multiAgentWorkflow) - Testing multiagent AI flows for CRUD, search, and document construction from databases
+- [N8Ntest](https://github.com/habib-049/n8nTest) - This repo is for testing n8n AI agent
+- [Netsecgame](https://github.com/stratosphereips/NetSecGame) - An environment simulation for networks security tasks for development and testing AI based agents. Part of AI Dojo project
+- [Networkattacksimulator](https://github.com/Jjschwartz/NetworkAttackSimulator) - An environment for testing AI pentesting agents against a simulated network.
+- [Nexus](https://github.com/cxbxmxcx/Nexus) - AI Agent Nexus is an open-source platform for developing, testing, and hosting AI Agents, built with Streamlit and Gradio. It offers a us…
+- [O1_Agent_Test](https://github.com/alexmoses/o1_Agent_Test) - Building a multi-agent AI program
+- [Orchestrai](https://github.com/samshapley/OrchestrAI) - A framework for building and testing custom autonomous agents.
+- [Othello-Fx](https://github.com/EudyContreras/Othello-FX) - Othello game framework made with JavaFX which can be use for testing Othello AI Agents.
+- [Pentesting-Ai](https://github.com/Lstalet04/Pentesting-AI) - Multi agent penetration testing AI
+- [Plark_Ai_Public](https://github.com/montvieux/plark_ai_public) - ... provide a basis for more extensive, long-term, and cutting edge research. The test bed can be used as a basis to research the limits of
+- [Rag-System](https://github.com/thetom42/rag-system) - Test Project with Replit AI Agent
+- [Raven-Test-Ai](https://github.com/dhurng/Raven-Test-AI) - An AI agent that can solve Raven Tests, visual iq tests
+- [Reverse_Turing_Test](https://github.com/nicomanzonelli/reverse_turing_test) - Can you outsmart the LLM-based AI agents?
+- [Ricai_Unittestgen_Tool](https://github.com/AutoDevTestAgent/ricai_unittestgen_tool) - (lablab.ai Autonomous Agents 2023 hackathon) RicAI unit test generation tool
+- [Rlerewolf](https://github.com/GeorgeVelikov/RLereWolf) - A framework for playing Werewolf & developing and testing AI agents for Werewolf.
+- [Rpm-Ai-Agent](https://github.com/teldridge11/RPM-AI-Agent) - AI Agent for solving Raven's Progressive Matrices as a test of general intelligence
+- [Rpm-Ai-Agent](https://github.com/horkays/RPM-AI-Agent) - An AI agent designed to solve the Raven's Progressive Matrices human intelligence tests, written in Python
+- [Sam](https://github.com/vishalmysore/sam) - Autonomous Agent or Large Action Model Implementation in Java. Selenium and AI integration, AI based validations for tests. UI Validation…
+- [Snakeai-Test](https://github.com/maxolib/SnakeAI-Test) - AI learning game using ML-agents for Unity
+- [Stock_Forecast_Ai_Agent](https://github.com/john2408/stock_forecast_ai_agent) - This is a small app to test the AI Agents functionallity for forecasting purposes. Mainly focusing on function calling.
+- [Swarmgo](https://github.com/prathyushnallamothu/swarmgo) - SwarmGo is a Go package that allows you to create AI agents capable of interacting, coordinating, and executing tasks. Inspired by OpenAI…
+- [Tago](https://github.com/TwilledWave/Tago) - Langchain agent test platform / AI Assistant Tago
+- [Test-Agent](https://github.com/GDT502/Test-Agent) - Developing AI tools for testing
+- [Test-Ai-Agent-Ideas](https://github.com/AbhiPat123/test-ai-agent-Ideas) - A small palyground to test free models - maybe will look into using paid ones later
+- [Testai](https://github.com/dhiraj-inti/TestAI) - An agentic AI application to automate the testsuite creation, execution and reporting
+- [Testai-Agent](https://github.com/khanzzirfan/TestAI-Agent) - write a test ai agent to write automated tests on PR requests
+- [Testdriverai](https://github.com/testdriverai/testdriverai) - Next generation autonomous AI agent for end-to-end testing of web & desktop
+- [Testzeus-Hercules](https://github.com/test-zeus-ai/testzeus-hercules) - Welcome to Hercules, the world's first open-source testing agent that's here to lift your testing burdens with the strength of a mytholog…
+- [Theagentsgameai](https://github.com/ZelunGlenn/TheAgentsGameAI) - AI testing system for The Agents Game logic, using decision tree.
+- [Tic-Tac-Toe](https://github.com/OmerCinal/Tic-Tac-Toe) - Search and AI algorithms testing game. Big Tic Tac Toe
+- [Travel_Agent](https://github.com/gowthaml15/travel_agent) - This repo is for testing crew_ai and trying a travel agent usecase
+- [Vacuum-Agents](https://github.com/hholb/vacuum-agents) - A Simulated Robot Vaccuum for testing different AI algorithms.
+- [Vercel_Ai_Test](https://github.com/pixelknit/vercel_ai_test) - Test for webgl ai agent
+- [Vital-Chat-Ui-Streamlit](https://github.com/vital-ai/vital-chat-ui-streamlit) - Part of the Vital Agent Ecosystem, Simple UI for Testing Agents
+- [Voice_Agent](https://github.com/drhammed/voice_agent) - Test app for the AI Voice Agent Project
+- [Voxprobe](https://github.com/voxos-ai/voxprobe) - A python package for automated testing and evaluation for voice ai agents
+- [Walking-Ai](https://github.com/AleCamara/walking-ai) - Test to make an AI walk using Unity ML-Agents plugin.
+- [Webtestagenticai](https://github.com/tvalentius/WebTestAgenticAI) - Web test Agent AI
+- [Whiteboxing-Unitymlagents](https://github.com/ActiveNick/Whiteboxing-UnityMLAgents) - Experimental testbed where I test various Machine Learning & AI concepts using Unity ML Agents.
+- [Windowsagentarena](https://github.com/microsoft/WindowsAgentArena) - Windows Agent Arena (WAA) 🪟 is a scalable OS platform for testing and benchmarking of multi-modal AI agents.
+- [Worldai](https://github.com/nschaetti/WorldAI) - World AI is a simulator designed for research purposes. It can be used to simulate worlds, logical and ethical problems for AI agents 
 
 
 ### Tools
