@@ -1738,6 +1738,6 @@ Tweet this to share on Twitter:
 
 ## License
 
-📜 This repository is licensed under the [MIT License](LICENSE).  
+📜 This repository is licensed under the [Apache 2.0](LICENSE).  
 
 Proudly open source to benefit the larger community, feel free to fork and extend!
