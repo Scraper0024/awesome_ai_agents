@@ -1689,6 +1689,7 @@ The key tools for building AI agents include benchmarks (to evalutae performance
 ## Contributing
 
 💡 Contributions are welcome!  
+
 Feel free to submit a pull request, suggest a new resource, or [open an issue](https://github.com/jim-schwoebel/awesome_ai_agents/issues/new). 
 
 Make sure your submissions align with the following guidelines:
